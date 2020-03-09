@@ -3,6 +3,7 @@
  *  Author:       ScottC
  *  Date:         08 March 2020
  *  IDE version:  1.8.5 (Windows 10)
+ *  Tutorial at:  https://arduinobasics.blogspot.com
  *  ------------------------------------------------------------
  */
 
